@@ -161,6 +161,10 @@ Vous pouvez utiliser les packages `accounts-password` et `accounts-ui`, ce qui v
 
 Pour plus de détails pour le système de login regarder dans la section [accounts](http://docs.meteor.com/#/full/accounts_api) de la documentation.
 
+# Ajout de markdown
+
+Pour améliorer l'affichage. Vous pouvez utiliser le package [meteor-marked](https://github.com/chuangbo/meteor-marked) pour que les utilisateurs puissent utiliser la syntax markdown.
+
 
 # autres tutoriel :
 

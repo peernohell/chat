@@ -81,7 +81,7 @@ Dans le fichier `chat.html` supprimer le titre puis remplacez le code du templat
 ```
 <ul id="messages">
   {{#each messages}}
-    {{this}}
+    <li>{{text}}</li>
   {{/each}}
 </ul>
 <form action="">
